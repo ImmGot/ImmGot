@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ImmGot
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning dart
+- 📫 How to reach me raffael.proenca@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love music
